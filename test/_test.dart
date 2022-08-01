@@ -5,6 +5,7 @@ import 'package:advent_of_code_2015/days.dart';
 
 final Map<Day, Tuple2<dynamic, dynamic>> solutions = {
   days[1]!!: Tuple2(280, 1797),
+  days[2]!!: Tuple2(1588178, 3783758),
 };
 
 void main() {
