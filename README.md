@@ -14,13 +14,13 @@ Run specific day:
 dart run :main <day>
 ```
 
-# Testing
+## Testing
 
 ```bash
 dart test
 ```
 
-# Completion
+## Completion
 | Day | Title | Part 1 | Part 2 | Code |
 | --- | --- | :---: | :---: | :---:|
 | ✔ 01 | [Not Quite Lisp](https://adventofcode.com/2015/day/1) | 🌟 | 🌟 | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Dart)](lib/src/day01.dart)
